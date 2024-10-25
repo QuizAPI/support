@@ -4,7 +4,7 @@ Welcome to the **QuizAPI Support** repository! This is the central hub for submi
 
 ## 📫 How to Submit an Issue
 
-1. **Check for Existing Issues**: Before opening a new issue, please check the [Issues](https://github.com/your-org/quizapi-support/issues) tab to see if someone has already reported a similar problem.
+1. **Check for Existing Issues**: Before opening a new issue, please check the [Issues](https://github.com/QuizAPI/support/issues) tab to see if someone has already reported a similar problem.
 2. **Open a New Issue**: If your issue hasn’t been reported yet, click on **New Issue** and choose the relevant template:
    - **Bug Report**: For issues with the API or functionality.
    - **Feature Request**: For suggesting new features or improvements.
