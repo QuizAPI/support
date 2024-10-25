@@ -14,10 +14,6 @@ Welcome to the **QuizAPI Support** repository! This is the central hub for submi
    - Steps to reproduce (for bugs)
    - Relevant screenshots or error messages, if applicable
 
-## 📝 Issue Templates
-
-We’ve provided templates to help streamline issue submissions. Choose the template that best fits your need to ensure faster and more efficient support.
-
 ## 📄 Code of Conduct
 
 By participating in this repository, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
